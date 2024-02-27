@@ -1,2 +1,5 @@
-# DSA-with-py-and-js
-This repo focuses on basic concepts of Data structures and algorithms in Python and JavaScript.  
+# This is car Warrrrrrrrr 🚗
+Play it if you are bore :P
+
+I mainly did it for some raw js practice along with some jQuery stuffs
+
